@@ -1,10 +1,14 @@
+![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)
 
 <h1 align="center">Hi 👋, I'm Shaik Zahid</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikzahid0713&label=Profile%20views&color=0e75b6&style=flat" alt="shaikzahid0713" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikzahid0713" alt="shaikzahid0713" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 - 🔭 I’m currently working on [Server Management System](https://github.com/shaikzahid0713/Server-Management-System)
 
